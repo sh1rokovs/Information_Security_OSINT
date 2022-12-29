@@ -1,4 +1,4 @@
-# Information_Security_OSINT
+# Information Security OSINT
 # Inforamtion resources:
 IP - https://resolve.rs / https://2ip.ru<br>
 Dns leak - https://www.dnsleaktest.com<br>
