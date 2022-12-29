@@ -20,3 +20,4 @@ Wi-fi count network connection - https://www.news.ucsb.edu/2021/020392/dont-fidg
 DeepFake - https://github.com/deepfakes/faceswap / https://github.com/iperov/DeepFaceLive <br>
 Create new identity - https://www.fakenamegenerator.com / https://thispersondoesnotexist.com / https://generated.photos/face-generator* / https://github.com/NVlabs/stylegan2 / https://www.myheritage.com/deep-nostalgia?lang=RU / https://github.com/AliaksandrSiarohin/first-order-model / https://www.d-id.com/speaking-portrait/ / https://randomdatatools.ru / https://randus.org<br>
 Geo search people - https://github.com/thewhiteh4t/seeker / https://github.com/Alb-310/Geogramint / https://github.com/Bafomet666/Bigbro <br>
+Nickname search - https://github.com/snooppr/snoop<br>
